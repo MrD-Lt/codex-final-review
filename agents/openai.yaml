@@ -1,0 +1,7 @@
+interface:
+  display_name: "Final Review"
+  short_description: "Language-aware final review for replies, documents, and code"
+  default_prompt: "Apply $final-review before delivering the final response or user-visible artifact."
+
+policy:
+  allow_implicit_invocation: true

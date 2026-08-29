@@ -1,0 +1,4 @@
+# Final Review user settings
+# The code-specific review reference is experimental and disabled by default.
+code_review:
+  enabled: false

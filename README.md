@@ -110,7 +110,7 @@ $final-review
 
 ## Humanizer attribution
 
-This repository includes an unmodified copy of [Humanizer](https://github.com/blader/humanizer) version 2.11.2 by Siqi Chen. Humanizer is licensed under the MIT License.
+This repository includes an unmodified copy of [Humanizer](https://github.com/blader/humanizer) version 3.1.0 by Siqi Chen. Humanizer is licensed under the MIT License.
 
 The vendored instructions are in `references/humanizer.md`. The original license is preserved in `references/humanizer-license.txt`. See [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) for the pinned source commit and coverage details.
 

@@ -6,8 +6,8 @@ This repository includes an unmodified copy of Humanizer:
 
 - Project: https://github.com/blader/humanizer
 - Author: Siqi Chen
-- Version: 2.11.2
-- Source commit: `e2e92e7b4b8229253ed5c8e81dc65463fdeddda5`
+- Version: 3.1.0
+- Source commit: `225a6f39ac85f76ee48dbad772ea4abe4ed6c9d8`
 - Vendored file: `references/humanizer.md`
 - License: MIT
 - License text: `references/humanizer-license.txt`

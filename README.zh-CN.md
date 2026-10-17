@@ -110,7 +110,7 @@ $final-review
 
 ## Humanizer 署名
 
-本仓库包含 [Humanizer](https://github.com/blader/humanizer) 2.11.2 的完整未修改副本，原作者为 Siqi Chen。Humanizer 使用 MIT License。
+本仓库包含 [Humanizer](https://github.com/blader/humanizer) 3.1.0 的完整未修改副本，原作者为 Siqi Chen。Humanizer 使用 MIT License。
 
 内嵌说明位于 `references/humanizer.md`，原始许可证保存在 `references/humanizer-license.txt`。固定来源提交和适用范围记录在 [THIRD_PARTY_NOTICES.md](./THIRD_PARTY_NOTICES.md) 中。
 

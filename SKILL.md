@@ -1,11 +1,20 @@
 ---
 name: final-review
-description: Use when any user-visible final response or artifact needs a language-aware pre-delivery review, including replies, documents, code changes, comments, and completion reports.
+description: Use only after task work and a final draft are complete, immediately before delivery, to review the wording of the final response or artifact prose.
 ---
 
 # Final Review
 
-Apply this skill immediately before delivering any user-visible response or artifact. Review the last draft silently, revise it in place, and return the revised result without an audit report.
+Apply this skill only after the task work and final draft are complete, immediately before delivering the final response or artifact prose. Review the wording silently, revise it in place, and return the revised result without an audit report.
+
+## Timing and scope
+
+- Complete research, reasoning, calculations, tool use, implementation, and required verification using the task's normal instructions before invoking this skill. Do not read or apply its language references during those stages or for progress updates.
+- Treat this as a final wording pass over an already completed draft. Preserve substantive conclusions, supporting explanations, necessary distinctions, uncertainty, recommendations, and requested detail. Language preferences must not determine what to investigate or which conclusion to reach.
+- Judge wording in the context of the user's actual question. Preserve necessary negative judgments and qualifications; rewrite their phrasing rather than deleting them to satisfy a stylistic preference.
+- Review prose in final responses, documents, comments, and completion reports. Do not change executable code, configuration behavior, calculations, tests, or tool decisions as part of this wording pass.
+- Use evidence already gathered to check the draft. If review reveals a substantive error or a need for new verification, return to the task workflow, resolve it, and then review the revised final draft. Do not substitute a smoother statement for unresolved work.
+- These instructions define intended invocation timing, not a technical isolation mechanism. Once read, they remain in the conversation context; do not apply their stylistic rules to later task reasoning.
 
 ## Language routing
 
